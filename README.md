@@ -5,5 +5,3 @@ soopsori practice
 ### pc
 ### ipad
 ### mobile
-
-
